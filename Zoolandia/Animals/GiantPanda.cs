@@ -1,6 +1,6 @@
 using System;
 
-namespace Zoolandia
+namespace Zoolandia.Animals
 {
     class GiantPanda : Ailuropoda
     {
