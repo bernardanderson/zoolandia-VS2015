@@ -1,0 +1,8 @@
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\Zoolandia\bin\Debug\Zoolandia.exe.config
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\Zoolandia\bin\Debug\Zoolandia.exe
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\Zoolandia\bin\Debug\Zoolandia.pdb
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\Zoolandia\obj\Debug\Zoolandia.exe
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\Zoolandia\obj\Debug\Zoolandia.pdb
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\bin\Debug\Zoolandia.exe.config
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\obj\Debug\Zoolandia.exe
+C:\Users\Bernard Anderson\Seafile\NSS_Backend\workspace\VS2015Projects\Zoolandia\Zoolandia\obj\Debug\Zoolandia.pdb
