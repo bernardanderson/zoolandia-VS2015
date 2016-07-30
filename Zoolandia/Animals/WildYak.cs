@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class WildYak : Bos
     {
         public WildYak() {    
-            this.name = "Generic Wild Yak";
+            this.name = "Wild Yak";
         }
 
         public WildYak(string sentName)

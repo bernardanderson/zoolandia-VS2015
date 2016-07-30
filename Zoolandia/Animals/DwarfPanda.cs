@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class DwarfPanda : Ailuropoda
     {
         public DwarfPanda() {
-            this.name = "Generic Dwarf Panda";
+            this.name = "Dwarf Panda";
         }
         
         public DwarfPanda(string sentName)

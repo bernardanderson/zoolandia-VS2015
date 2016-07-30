@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class Banteng : Bos
     {
         public Banteng() {    
-            this.name = "Generic Banteng";
+            this.name = "Banteng";
         }
 
         public Banteng(string sentName)

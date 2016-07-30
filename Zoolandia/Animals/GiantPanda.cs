@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class GiantPanda : Ailuropoda
     {
         public GiantPanda() {
-            this.name = "Generic Giant Panda";
+            this.name = "Giant Panda";
         }
 
         public GiantPanda(string sentName)

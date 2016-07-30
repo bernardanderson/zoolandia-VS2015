@@ -7,7 +7,7 @@ namespace Zoolandia.Animals
         public string hairStyle { get; set; }
 
         public SimocyonBatalleri() {
-            this.name = "Generic Simocyon Batalleri";
+            this.name = "Simocyon Batalleri";
         }
 
         public SimocyonBatalleri(string sentName)

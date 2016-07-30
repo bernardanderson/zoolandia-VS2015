@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class Zebu : Bos
     {
         public Zebu() {    
-            this.name = "Generic Zebu";
+            this.name = "Zebu";
         }
 
         public Zebu(string sentName)

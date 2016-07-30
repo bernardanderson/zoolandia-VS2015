@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class GrizzlyBear : Ursus
     {
         public GrizzlyBear() {
-            this.name = "Generic Grizzly";
+            this.name = "Grizzly Bear";
         }
 
         public GrizzlyBear(string sentName)
