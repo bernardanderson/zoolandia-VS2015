@@ -7,7 +7,7 @@ namespace Zoolandia.Animals
         public string hairStyle { get; set; }
 
         public PristinailurusBristoli() {
-            this.name = "Generic Pristinailurus Bristoli";
+            this.name = "Pristinailurus Bristoli";
         }
 
         public PristinailurusBristoli(string sentName)

@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class AiluropodaBaconi : Ailuropoda
     {
         public AiluropodaBaconi() {
-            this.name = "Generic Ailuropoda Baconi";
+            this.name = "Ailuropoda Baconi";
         }
 
         public AiluropodaBaconi(string sentName)

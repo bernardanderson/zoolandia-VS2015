@@ -53,6 +53,12 @@
     <Compile Include="Animals\BlackBear.cs" />
     <Compile Include="Animals\Bos.cs" />
     <Compile Include="Animals\BrownBear.cs" />
+    <Compile Include="Animals\Forest.cs" />
+    <Compile Include="Animals\Praire.cs" />
+    <Compile Include="Animals\Arctic.cs" />
+    <Compile Include="Animals\IPolarHabitat.cs" />
+    <Compile Include="Animals\ILandHabitat.cs" />
+    <Compile Include="Animals\Habitat.cs" />
     <Compile Include="Animals\DwarfPanda.cs" />
     <Compile Include="Animals\Gaur.cs" />
     <Compile Include="Animals\GiantPanda.cs" />

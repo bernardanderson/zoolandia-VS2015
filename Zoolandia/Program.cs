@@ -7,7 +7,7 @@ namespace Zoolandia
     {
         public static void Main(string[] args)
         {
-
+            /*
             AilurusFulgens ailurusFulgens = new AilurusFulgens();
             ailurusFulgens.height = "1ft";
             ailurusFulgens.color = "red";
@@ -55,6 +55,52 @@ namespace Zoolandia
             GrizzlyBear overloadedGrizzly3 = new GrizzlyBear("Jubb Jubb", 23);
             Console.WriteLine($"This overloaded grizzly bear is named {overloadedGrizzly3.name} and is {overloadedGrizzly3.age} years old");
             Console.WriteLine("***\n");
+            */
+
+            AiluropodaBaconi ailuropodaBaconi = new AiluropodaBaconi();
+            AiluropodaMicrota ailuropodaMicrota = new AiluropodaMicrota();
+            GiantPanda giantPanda = new GiantPanda();
+            DwarfPanda dwarfPanda = new DwarfPanda();
+
+            AilurusFulgens ailurusFulgens = new AilurusFulgens();
+            PristinailurusBristoli pristinailurusBristoli = new PristinailurusBristoli();
+            SimocyonBatalleri simocyonBatalleri = new SimocyonBatalleri();
+
+            Banteng banteng = new Banteng();
+            Gaur gaur = new Gaur();
+            WildYak wildYak = new WildYak();
+            Zebu zebu = new Zebu();
+
+            BlackBear blackBear = new BlackBear();
+            BrownBear brownBear = new BrownBear();
+            GrizzlyBear grizzlyBear = new GrizzlyBear();
+            PolarBear polarBear = new PolarBear();
+
+            Praire praire = new Praire(new Animal[] { banteng, gaur, wildYak, zebu });
+            Console.WriteLine($"These are the animals in the praire:");
+            foreach (var animal in praire.inhabitants)
+            {
+                Console.WriteLine($"{animal}");
+            }
+                Console.WriteLine("***\n");
+
+            Forest forest = new Forest(new Animal[] { blackBear, brownBear, grizzlyBear, ailurusFulgens, pristinailurusBristoli, simocyonBatalleri,
+               ailuropodaBaconi, ailuropodaMicrota, giantPanda, dwarfPanda});
+            Console.WriteLine($"These are the animals in the forest:");
+            foreach (var animal in forest.inhabitants)
+            {
+                Console.WriteLine($"{animal}");
+            }
+            Console.WriteLine("***\n");
+
+            Arctic arctic = new Arctic(new Animal[] { polarBear });
+            Console.WriteLine($"These are the animals in the arctic:");
+            foreach (var animal in arctic.inhabitants)
+            {
+                Console.WriteLine($"{animal}");
+            }
+            Console.WriteLine("***\n");
+
 
             Console.ReadKey();
 

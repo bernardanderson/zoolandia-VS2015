@@ -5,7 +5,7 @@ namespace Zoolandia.Animals
     class Gaur : Bos
     {
         public Gaur() {    
-            this.name = "Generic Gaur";
+            this.name = "Gaur";
         }
 
         public Gaur(string sentName)

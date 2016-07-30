@@ -7,7 +7,7 @@ namespace Zoolandia.Animals
         public string hairStyle { get; set; }
 
         public AilurusFulgens() {
-            this.name = "Generic Ailurus Fulgens";
+            this.name = "Ailurus Fulgens";
         }
 
         public AilurusFulgens(string sentName)
